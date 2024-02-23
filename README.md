@@ -3,7 +3,7 @@
 [![](https://github.com/GusAlbach/pagila-hw2/workflows/tests/badge.svg)](https://github.com/GusAlbach/pagila-hw2/actions?query=workflow%3Atests)
 This is the second SQL homework in CMC's CSCI143: Big Data class.
 
-## Tasks
+##  Tasks
 
 1. Recall that [git is not github](https://pedrorijo.com/blog/git-init/#what-is-not-git).
     Git is a protocol, and there are many services that provide access to that protocol.
